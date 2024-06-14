@@ -27,7 +27,7 @@
 <body>
     <div class="container">
         <h1>Welcome to My Site</h1>
-        <p>This is Ravi Pratap</p>
+        <p>This isRavi Pratap</p>
         <?php
             // PHP code can be inserted here
             echo "<p>Today is " . date("Y-m-d") . "</p>";
