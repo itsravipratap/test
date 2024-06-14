@@ -26,7 +26,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to My Site</h1>
+        <h1>Welcome to My Site </h1>
         <p>This Ravi Pratap</p>
         <?php
             // PHP code can be inserted here
