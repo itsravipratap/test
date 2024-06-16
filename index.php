@@ -20,7 +20,7 @@
 
     <div class="content"> 
 
-     <h2>Sign In</h2> 
+     <h2>Sign In </h2> 
 
      <div class="form"> 
 
